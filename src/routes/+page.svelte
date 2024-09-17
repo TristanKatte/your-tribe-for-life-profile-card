@@ -3,7 +3,7 @@
 </script>
 
 
-<main>
+
 
     <article>
   
@@ -39,4 +39,3 @@
       
       </article>
 
-</main>
