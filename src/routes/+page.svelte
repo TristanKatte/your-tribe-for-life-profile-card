@@ -10,7 +10,7 @@
 
         <section>
           <figure>
-            <img src="images/profielfoto-zw.jpg" class="image1" alt="foto van mijzelf">
+            <img src="static/profielfoto-zw.jpg" class="image1" alt="foto van mijzelf">
             <img src="images/logo_groen-300x265.png" class="image2" alt="personal logo">
             <figcaption class="typewriter">9 november 1998</figcaption>
           </figure>
