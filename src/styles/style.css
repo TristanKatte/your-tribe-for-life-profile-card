@@ -35,7 +35,6 @@ article {
   color: white;
   /*Ik heb hier een achtergrond kleur neergezet, voor het geval de afbeelding niet kan laden*/
   background-color: #10ebebdc;
-  background-image: url("../static/patroon_donker.png");
   background-repeat: no-repeat;
   background-size: cover;
   /*Ik heb hier een box shadow geplaatst om mijn visitekaartje naar voren te laten komen*/
