@@ -1,5 +1,6 @@
 <script>
     import'../styles/style.css'
+    import foto from '$lib/assets/profielfoto-zw.jpg';
 </script>
 
 
@@ -10,7 +11,7 @@
 
         <section>
           <figure>
-            <img src="images/profielfoto-zw.jpg" class="image1" alt="foto van mijzelf">
+            <img alt="foto van mijzelf" src="{foto}">
             <img src="images/logo_groen-300x265.png" class="image2" alt="personal logo">
             <figcaption class="typewriter">9 november 1998</figcaption>
           </figure>
