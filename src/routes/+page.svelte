@@ -1,6 +1,5 @@
 <script>
     import'../styles/style.css'
-    import'../styles/fonts.css'
     import foto from '$lib/assets/profielfoto-zw.jpg';
     export let data;
 </script>
@@ -21,7 +20,7 @@
       
         <section>
           <h1 class="glow">Over mij</h1>
-          <!-- <p><%= data.bio %></p> -->
+          <p></p>
       
           <h2 class="glow">Mijn vaardigheden</h2>
           <ul>
