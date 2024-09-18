@@ -1,5 +1,6 @@
 <script>
     import'../styles/style.css'
+    import'../styles/fonts.css'
     import foto from '$lib/assets/profielfoto-zw.jpg';
     export let data;
 </script>
