@@ -34,7 +34,7 @@ article {
   border-radius: 2rem; /*geeft rounde corners*/
   color: white;
   /*Ik heb hier een achtergrond kleur neergezet, voor het geval de afbeelding niet kan laden*/
-  background-image: url("$lib/assets/patroon_licht.png");
+  background-image: url("$lib/assets/patroon_donker.png");
   background-repeat: no-repeat;
   background-size: cover;
   /*Ik heb hier een box shadow geplaatst om mijn visitekaartje naar voren te laten komen*/

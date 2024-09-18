@@ -1,7 +1,10 @@
 <script>
+  /** @type {import('./$types').PageData} */
     import'../styles/style.css'
     import foto from '$lib/assets/profielfoto-zw.jpg';
     export let data;
+    let people = data.people 
+    console.log(people);
 </script>
 
 
