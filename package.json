@@ -16,7 +16,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@directus/sdk": "^17.0.1",
-		"gsap": "^3.12.5"
+		"@directus/sdk": "^17.0.1"
 	}
 }
