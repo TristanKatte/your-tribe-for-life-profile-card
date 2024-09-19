@@ -8,7 +8,7 @@
     export let data;
     let people = data.people
     export let peep = people? people.find(person => person.id == 54) : 'not found';
-    console.log(peep);
+    
 </script>
 
 
