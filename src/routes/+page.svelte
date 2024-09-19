@@ -2,9 +2,8 @@
   /** @type {import('./$types').PageData} */
     import'../styles/style.css'
     import foto from '$lib/assets/profielfoto-zw.jpg';
-    import { gsap, CustomEase, RoughEase, Flip, ScrollTrigger, Observer, ScrollToPlugin, Draggable, MotionPathPlugin, EaselPlugin, PixiPlugin, TextPlugin } from "gsap/all";
-    gsap.registerPlugin(Flip,ScrollTrigger,Observer,ScrollToPlugin,Draggable,MotionPathPlugin,EaselPlugin,PixiPlugin,TextPlugin,RoughEase,ExpoScaleEase,SlowMo,CustomEase);
-    import '../javascript/3d-hover.js'
+    
+    
 
     export let data;
     let people = data.people
@@ -13,10 +12,9 @@
 </script>
 
 
-<div id="top">
-    <div class="perspective">
+
     <article class="card">
-      <div class="thumb">
+      
         <section>
           <figure>
             <img alt="foto van mijzelf" src="{foto}">
@@ -47,10 +45,9 @@
             
           </nav>
         </section>
-      </div>
+
       
       </article>
-      </div>
-    </div>
+
     
 

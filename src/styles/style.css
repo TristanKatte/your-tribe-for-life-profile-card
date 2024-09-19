@@ -43,44 +43,7 @@ article {
   box-shadow: 15px 15px 5px 0px rgba(97, 97, 97, 0.7); */
 }
 
-.perspective {
-  width: 100%;
-  perspective: 1000px;
-}
 
-#top {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: auto;
-}
-
-.card {
-  box-shadow: 0 70px 63px -60px #494848;
-    transform-style: preserve-3d;
-    transition: transform .05s linear;
-}
-
-.thumb {
-  background-size: cover;
-  height: 100%;
-  width: 100%;
-  border-radius: 15px;
-
-  &:after {
-      background: inherit;
-      content: '';
-      display: block;
-      position: absolute;
-      left: -60px;
-      top: 40px;
-      width: 100%;
-      height: 108%;
-      z-index: -1;
-      filter: blur(55px);
-}
 
 
 /*Ik heb hier een border radius gegeven, zodat er samenhang zit met de border radius van de article tag*/
@@ -276,5 +239,4 @@ p {
   font-family: 'Audiowide', sans-serif;
   letter-spacing: 1px;
   
-}
 }
