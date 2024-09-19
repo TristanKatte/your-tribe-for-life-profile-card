@@ -13,7 +13,7 @@
 
 
 
-    <article class="card">
+    <article class="shiny-glow">
       
         <section>
           <figure>
