@@ -22,7 +22,7 @@
         </section>
       
         <section>
-          <h1 class="glow">{peep.name} {peep.surname}</h1>
+          <h1 class="glow">{peep.name}</h1>
           <p>{peep.bio}</p>
       
           <h2 class="glow">Mijn vaardigheden</h2>
