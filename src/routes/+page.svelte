@@ -36,7 +36,7 @@
       
           <nav class="effect" id="effect">
             <a href="mailto:tristankatte@hotmail.com">e-mail</a>
-            <a href="https://tristankatte.nl/nieuw_portfolio/" target="_blank"
+            <a href="https://tristankatte.com/" target="_blank"
               >Mijn website</a>
               <a href="https://github.com/TristanKatte" target="_blank"
               >Mijn Github</a>
